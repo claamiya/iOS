@@ -1,4 +1,4 @@
 iOS
 ===
- IrXNBBfsym
+
 iOS libraries
